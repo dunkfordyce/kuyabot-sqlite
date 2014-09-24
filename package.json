@@ -1,7 +1,7 @@
 {
   "name": "kuyabot-sqlite",
   "version": "0.0.0",
-  "description": "",
+  "description": "kuyabot-sqlite ==============",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
     "promise": "^6.0.0",
     "sqlite3": "^2.2.7",
     "underscore": "^1.7.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dunkfordyce/kuyabot-sqlite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dunkfordyce/kuyabot-sqlite/issues"
+  },
+  "homepage": "https://github.com/dunkfordyce/kuyabot-sqlite"
 }
